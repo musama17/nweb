@@ -46196,7 +46196,7 @@ A.jP.prototype={
 S(){return new A.Z0(new A.aE(null,t.am),A.c1(null),A.c1(null),B.l)}}
 A.Z0.prototype={
 A(a,b){var s,r,q,p,o=this,n=null,m=t.w,l=b.E(m).f,k=b.E(m).f,j=b.E(m).f,i=b.E(m).f
-j=A.aD(n,A.aMj("login2.png"),B.k,n,n,n,n,i.a.b*0.2,n,n,n,n,j.a.a*0.5)
+j=A.aD(n,A.aMj("assets/login2.png"),B.k,n,n,n,n,i.a.b*0.2,n,n,n,n,j.a.a*0.5)
 i=A.bY(10)
 i=A.aD(n,A.iv(!1,o.r,A.hG(n,n,n,B.cs,n,n,n,n,!0,new A.e8(A.bY(10),B.ac),n,n,n,n,B.m,!0,n,n,n,n,new A.dO(4,i,B.ac),n,n,n,n,n,n,"Email",n,n,n,n,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n),B.bS,!1,n,n,new A.av2(o),n,new A.av3()),B.k,n,n,n,n,n,n,n,n,n,800)
 s=o.d
@@ -46682,7 +46682,7 @@ return new A.a_x(new A.aE(q,t.am),s,A.ez(o,o.gcl().dj(0,"users")),A.c1(q),A.c1(q
 A.a_x.prototype={
 A(a,b){var s,r,q,p,o,n,m,l,k,j=this,i=4294704123,h=null,g=t.w,f=b.E(g).f,e=b.E(g).f,d=b.E(g).f
 g=b.E(g).f
-d=A.aD(h,A.aMj("welcome2.png"),B.k,h,h,h,h,g.a.a*0.2,h,h,h,h,d.a.a*0.5)
+d=A.aD(h,A.aMj("assets/welcome2.png"),B.k,h,h,h,h,g.a.a*0.2,h,h,h,h,d.a.a*0.5)
 g=A.bY(20)
 g=A.aD(h,A.iv(!1,j.Q,A.hG(h,h,h,B.cs,h,h,h,h,!0,new A.e8(A.bY(20),B.ac),h,h,h,h,B.m,!0,h,h,h,h,new A.dO(4,g,B.ac),h,h,h,h,h,h,"First Name",h,h,h,h,!1,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h),B.bS,!1,new A.ayl(),h,h,h,new A.aym()),B.k,h,h,h,h,h,h,h,h,h,800)
 s=A.bY(20)
